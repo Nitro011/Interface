@@ -1,0 +1,6 @@
+C:\Users\Concentra-User\source\repos\Example-Interfaces\Example-Interfaces\bin\Debug\Example-Interfaces.exe.config
+C:\Users\Concentra-User\source\repos\Example-Interfaces\Example-Interfaces\bin\Debug\Example-Interfaces.exe
+C:\Users\Concentra-User\source\repos\Example-Interfaces\Example-Interfaces\bin\Debug\Example-Interfaces.pdb
+C:\Users\Concentra-User\source\repos\Example-Interfaces\Example-Interfaces\obj\Debug\Example-Interfaces.csprojAssemblyReference.cache
+C:\Users\Concentra-User\source\repos\Example-Interfaces\Example-Interfaces\obj\Debug\Example-Interfaces.exe
+C:\Users\Concentra-User\source\repos\Example-Interfaces\Example-Interfaces\obj\Debug\Example-Interfaces.pdb
